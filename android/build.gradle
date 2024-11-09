@@ -2,6 +2,7 @@ group 'com.advoques.document_file_save_plus'
 version '1.0-SNAPSHOT'
 
 buildscript {
+    namespace "com.advoques.document_file_save_plus"
     ext.kotlin_version = '1.7.10'
     repositories {
         google()
